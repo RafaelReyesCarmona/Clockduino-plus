@@ -1,5 +1,5 @@
 # Clockduino-plus
-[![Arduino ©: Clockduino-plus](https://img.shields.io/badge/Arduino©-Clockduino-plus-red?style=for-the-badge&logo=arduino)](README.md)
+[![Arduino ©: Clockduino-plus](https://img.shields.io/badge/Arduino©-Clockduino_plus-red?style=for-the-badge&logo=arduino)](README.md)
 
  Clock based on AVR,s.
 
