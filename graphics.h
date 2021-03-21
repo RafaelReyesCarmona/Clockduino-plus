@@ -1,15 +1,27 @@
-/* Copyrigth (c), 2020, Francisco Rafael Reyes Carmona.
- * Reservados todos los derechos.
- *  
- *     Queda totalmente prohibida la distribución, reproducción, copia, almacenamiento o
- * transcripción total o parcial de ésta obra en cualquier soporte físico o electrónico sin el
- * consentimiento expreso del propietario del copyrigth.
- *
- *     Este código se distribuye “tal cual” sin garantía implícita, incluso mercantil, o
- * de uso, así como la adecuación para un propósito concreto.
- *
- *     El autor no se hace responsable de cualquier tipo de daño derivado del uso, así como
- * pérdidas económicas o de información.
+/* 
+graphics.h
+
+Copyright © 2021 Francisco Rafael Reyes Carmona. 
+All rights reserved. 
+
+rafael.reyes.carmona@gmail.com 
+
+
+  This file is part of Clockduino-plus. 
+
+  Clockduino-plus is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  Clockduino-plus is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with Clockduino-plus.  If not, see <https://www.gnu.org/licenses/>.
+
  */
 
 static const unsigned char FULL_BAT[] PROGMEM = {
