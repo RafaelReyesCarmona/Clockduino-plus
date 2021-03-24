@@ -13,6 +13,8 @@ It is tested on:
 
 ## List of componets
 
+![img1](img/IMG_20210113_063551.jpg)
+
 This project use components list above:
 
   * Arduino © UNO board or equivalent AVR. 
