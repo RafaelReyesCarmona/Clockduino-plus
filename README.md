@@ -1,13 +1,16 @@
 # Clockduino-plus
 [![Arduino ©: Clockduino-plus](https://img.shields.io/badge/Arduino©-Clockduino_plus-red?style=for-the-badge&logo=arduino)](README.md)
 
+** **
+** **
+
  Clock based on AVR,s.
 
-This program is written in C for Arduino © UNO R3 and other compatible microcontrollers based on Atmega328 and similar. 
+This program is written in C for Arduino © UNO R3 and other compatible microcontrollers based on Atmega328 and similar.
 
 It is tested on:
-* UNO R3 board (Arduino UNO compatible board based on Atmega328). 
-* Lgt8f328p (a replacement Arduino Pro Mini). 
+* UNO R3 board (Arduino UNO compatible board based on Atmega328).
+* Lgt8f328p (a replacement Arduino Pro Mini).
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
@@ -17,11 +20,11 @@ It is tested on:
 
 This project use components list above:
 
-  * Arduino © UNO board or equivalent AVR. 
+  * Arduino © UNO board or equivalent AVR.
   * DS3231 RTC module.
   * TP4056 Lithium battery charger.
   * 18650 Lithium battery 3,7v.
-  * HX1230 96X68 SPI LCD monocrome display. 
+  * HX1230 96X68 SPI LCD monocrome display.
   * Bluetooth module. (Optional)
 
   ## License
@@ -38,5 +41,5 @@ You should have received a copy of the GNU General Public License along with Clo
 
 ## Authors
 
-Copyright © 2021 Francisco Rafael Reyes Carmona. 
-Contact me: rafael.reyes.carmona@gmail.com 
+Copyright © 2021 Francisco Rafael Reyes Carmona.
+Contact me: rafael.reyes.carmona@gmail.com
